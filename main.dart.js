@@ -41637,7 +41637,7 @@ RT(a){var s,r=this,q=null
 r.a.toString
 s=r.gWm()
 r.a.toString
-return new A.wE(q,q,q,new A.a5S(),q,q,q,q,q,B.zY,B.DS,q,q,q,B.BO,r.gWu(),"Home",q,B.IT,B.ec,q,s,q,q,B.kx,!1,!1,!1,!1,r.gW7(),!1,q,q,q,new A.lG(r,t.bT))},
+return new A.wE(q,q,q,new A.a5S(),q,q,q,q,q,B.zY,B.DS,q,q,q,B.BO,r.gWu(),"NikSak",q,B.IT,B.ec,q,s,q,q,B.kx,!1,!1,!1,!1,r.gW7(),!1,q,q,q,new A.lG(r,t.bT))},
 K(a){var s,r=null,q=A.CA(!1,!1,this.RT(a),r,r,r,r,!0,r,r,r,new A.a5T(),r,r)
 this.a.toString
 s=this.d
@@ -66300,7 +66300,7 @@ A.qA.prototype={
 aa(){return new A.Pj(new A.be(null,t.A),this.c,B.j)}}
 A.Pj.prototype={
 K(a){var s=this,r=null,q=s.f,p=t.p,o=A.a([new A.c0(new A.hV("At NikSak Softwares, we specialize in helping businesses seamlessly transfer their data from legacy systems to modern platforms, ensuring minimal disruption to operations and maximum data integrity.","assets/datamigration.png","Effortless Data Migration Services",q,r),q,r)],p)
-if(q==="Desktop")o.push(new A.c0(A.cc(A.a([A.bJ(r,r,8000),A.bJ(A.nS(A.bx("Explore More",r),new A.a8R(s)),r,200)],p),r),q,r))
+if(q==="Desktop")o.push(new A.c0(A.cc(A.a([A.bJ(r,r,800),A.bJ(A.nS(A.bx("Explore More",r),new A.a8R(s)),r,200)],p),r),q,r))
 o.push(s.d?new A.ar(B.K,new A.c0(A.cc(A.a([new A.ar(B.H,new A.bE("Assessment and Planning","We start by conducting a thorough assessment of your existing data infrastructure, identifying the scope, complexity, and dependencies of the migration project. Based on our findings, we develop a comprehensive migration plan tailored to your specific requirements and objectives.",q,r),r),new A.ar(B.H,new A.bE("Data Cleansing and Transformation","Before migrating your data, we ensure that it is clean, accurate, and compatible with the target system. Our data experts employ advanced techniques to cleanse and transform your data, resolving inconsistencies, duplicates, and formatting issues to optimize its quality and usability.",q,r),r),new A.ar(B.H,new A.bE("Migration Execution","With a solid plan in place, we execute the migration process with precision and care, minimizing downtime and ensuring a smooth transition from start to finish. Whether you're migrating structured or unstructured data, databases, files, or applications, we have the expertise to handle it all.",q,r),r),new A.ar(B.H,new A.bE("Post-Migration Support","Our commitment to your success doesn't end with the migration process. We provide ongoing support and assistance to help you address any issues or challenges that may arise post-migration, ensuring a seamless transition and optimal performance of your data systems.",q,r),r)],p),r),q,r),r):A.ds(r,r,B.q,r,r,r,r,r,r,r,r,r,r))
 return A.cc(o,s.e)}}
 A.a8R.prototype={
